@@ -22,7 +22,7 @@ Open: \crypto-currency\project\crypto currency.sln
 -> Line 75: //Delay between requests to poocoin API, 10000 means 10 seconds.
 Sleep(10000);
 
--> Line 84: //It's possible to get some other stuffs from the API, example usage:
+-> Line 84: //Its possible to get some other stuffs from the API, example usage:
 std::string coinSymbol = jsonDecoded.at(0)["symbol"].c_str();
 
 //API return example for Space Genesis token:
