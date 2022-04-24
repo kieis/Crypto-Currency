@@ -18,7 +18,7 @@ Open: \crypto-currency\project\crypto currency.sln
 ### Some observations
 #### Inside 'main.cpp'
 
-```bash
+```
 -> Line 75: //Delay between requests to poocoin API, 10000 means 10 seconds.
 Sleep(10000);
 
@@ -43,7 +43,7 @@ Folder with compiled program: \crypto-currency\build
 
 #### File 'alarm.ini'
 
-```bash
+```
 If empty, no alarm will occur.
 
 Structure:
